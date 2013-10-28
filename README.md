@@ -1,4 +1,0 @@
-red-mangolin
-============
-
-red-mangolin
