@@ -2,16 +2,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>reports</groupId>
+    <version>0.2</version>
     <artifactId>reports-app</artifactId>
+    
     <packaging>war</packaging>
     <name>Reports! Application</name>
     
-    <parent>
-        <groupId>reports</groupId>
-        <artifactId>reports</artifactId>
-        <version>0.2</version>
-    </parent>
-    
+   
     <description>Reports! Application
 
         String framework based web application allows to track your activities.
