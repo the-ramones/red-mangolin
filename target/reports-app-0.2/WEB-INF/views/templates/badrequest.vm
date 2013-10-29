@@ -1,2 +1,0 @@
-#springMessage("content.badrequest.title")
-#set($page_title = 'Error')
