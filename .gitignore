@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+
+# Logs #
+files/
+tx-logs/
+*.log.zip
+*.log
+
+# Java Maven target #
+target/
+
+# App generated dirs #
+files/
